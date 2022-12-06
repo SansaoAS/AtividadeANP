@@ -22,3 +22,5 @@ Interação com outras pessoas querendo aprender (trabalhos em grupo e interaç�
  naquele curso são muito boas para facilitar no aprendizado e formação de opinião sobre o assunto);
 Costume (geralmente passamos toda a vida aprendendo de forma presencial, o costume com esta metodologia de
  ensino pode facilitar no aprendizado do conteúdo);
+
+Olá eu sou uma nova linha;
